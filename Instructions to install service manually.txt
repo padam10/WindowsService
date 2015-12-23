@@ -1,0 +1,6 @@
+You can install via command line : 
+(i)	 open the developer command promt window as an Administrator: 
+(ii)	Cd to the folder where exe exists most likely C:\Users\pbhandari\Documents\WindowsServiceDemo\WindowsServiceDemo\bin\Debug
+(iii)	Run the following commands : 
+(iv)	Installutil myservice.exe or myservice.exe –install
+(v)	Installutil /u myservice.exe or myservice.exe –uninstall
