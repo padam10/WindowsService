@@ -31,3 +31,5 @@ namespace WindowsServiceDemo
         }
     }
 }
+
+// Changes from Service 2 commit 1
